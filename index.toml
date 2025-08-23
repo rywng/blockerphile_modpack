@@ -9,10 +9,6 @@ file = "README.md"
 hash = "7d649395a5e3f9d7c78dcbc7a298b6f769d5f3665c74a8be5b1ee89a6107bc7d"
 
 [[files]]
-file = "download_packwiz.sh"
-hash = "10aca74ef462cfbe2831c5c942342e60409e5f186647914d7946c558a45c44a6"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3c4f1558a94121e7fe573ad4ad05c2fe44ccf78cbb89bb766a74985188207cdc"
 metafile = true
