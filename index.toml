@@ -124,8 +124,8 @@ hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
 metafile = true
 
 [[files]]
-file = "mods/free-cam.pw.toml"
-hash = "a874b355bb3ba1bc51653ecf72f6fb78b89b4cb979f3b1870f5b77c9eea45d05"
+file = "mods/freecam.pw.toml"
+hash = "518e512a141b3b331ecaafaf315a9636f9eadf211c0df39395109e8dbf588a54"
 metafile = true
 
 [[files]]
