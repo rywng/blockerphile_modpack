@@ -1,0 +1,13 @@
+name = "Zoomglass"
+filename = "zoomglass-1.4-mc1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jRrJYVVU/versions/4gX1A2Je/zoomglass-1.4-mc1.19.jar"
+hash-format = "sha512"
+hash = "0235dca36781f8b4d3129ece2e809ca6f3f856205338b475bc085b5edcf1a9fc675529c0b6bc91485377f2b99eb1359e0baf1fe6ae7964432817d372df76fd94"
+
+[update]
+[update.modrinth]
+mod-id = "jRrJYVVU"
+version = "4gX1A2Je"

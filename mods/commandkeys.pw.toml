@@ -1,0 +1,13 @@
+name = "Command Keys"
+filename = "commandkeys-fabric-2.3.11+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/65UyswbY/versions/BTegMEO8/commandkeys-fabric-2.3.11%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "0964a708560887e5c23e71b82d7cdef2734b8878c58a4ee4e37d45698c23a2e61871353ada17eada1b4025f433f02bf3f18fb2ba6c4750c15e24326b533871c6"
+
+[update]
+[update.modrinth]
+mod-id = "65UyswbY"
+version = "BTegMEO8"
