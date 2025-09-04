@@ -224,11 +224,6 @@ hash = "0846c709603ff778d27f6afe12caa9fedf0648b7d7182a969fd08fe6432b5cc9"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "689a6b882d654811647fa99eaaa5d5d0c089281846a1fcf1d6242cd18063569e"
-metafile = true
-
-[[files]]
 file = "mods/perspektive.pw.toml"
 hash = "2b7ed8a56b4b372eff730edc4ab41fd84270f6d8cd84c36e67643ac52d1e4bc9"
 metafile = true
