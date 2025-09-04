@@ -33,6 +33,14 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "b1e7cd3216a4f96ceb1588d497ce4895a8cf8aae83f9557a141fa5feaa65397e"
 
 [[files]]
+file = "config/yosbr/config/sodiumdynamiclights-client.toml"
+hash = "10f1464ef3af10a3f90fe1202fcf2be79e9dc3abbe79e7c8dfc5fd70179867ed"
+
+[[files]]
+file = "config/yosbr/config/viewboboptions.json5"
+hash = "a6bd246708d70a0754f4c69b8345e0fea9e48b379046d3c54273c12362cb5fb3"
+
+[[files]]
 file = "config/yosbr/config/xaerominimap.txt"
 hash = "9d60535d251c69ac378a2e9c1ba701542f5ed6bcf010e8976e6f468b0cf6fd5a"
 
@@ -71,6 +79,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "c899acdc322ab52800a6e305a16427297f411c1c39d97983be96e8b6a34e157c"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "be29598337af357cd80b5a60d4eb1e06ff50008fe8d9ca0b52d1279be96a785a"
 metafile = true
 
 [[files]]
@@ -284,8 +297,33 @@ hash = "dee709ea8dbbb9e75de4d53b1b9e1fd0e535abc0809c1f5aaadf783178cccf21"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "59943cbd2c0e4e90f65002e17704bca571acb09b095fc69fdf430df4bfd42870"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "ceb180c764fa9c7c12c7e750cc7b726171277cb2b68e47370888c4ff4679a4ed"
+metafile = true
+
+[[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "6475037d680289b4cf8bca4e375b3ecb9c9d6d90dd785b9bd085a42b9c84b795"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "461adc31ce2b89cafc5ad2e846b482c68529231ac1d907e39ec62458b22e6b3e"
 metafile = true
 
 [[files]]
