@@ -1,12 +1,12 @@
 name = "Blockerphile"
 author = "Ryan Wong"
-version = "0.1.0-rc1"
+version = "0.1.0-rc2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2e440a816990536dc8e9b2864af5cbc4ccd8a7f8bd5b64dfbd1a7de6b0d398d7"
+hash = "a49608371d97ade3ff39952356407b465ef29d752548f94b5182671aebc8f799"
 
 [versions]
 fabric = "0.17.2"

@@ -6,7 +6,35 @@ hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
 file = "README.md"
-hash = "7d649395a5e3f9d7c78dcbc7a298b6f769d5f3665c74a8be5b1ee89a6107bc7d"
+hash = "b527527c977821c65c86623c7afc0f58609ef4af4af2923ff76eb52ec1fdce7c"
+
+[[files]]
+file = "config/yosbr/config/emi.css"
+hash = "0b3ef7f96a62d92249d531a6b0fe7e7733f3bc8037d2de6d14a81072146ebd62"
+
+[[files]]
+file = "config/yosbr/config/freecam.json5"
+hash = "442d3c73c8d0c64a2445ef0c31b618db0034a2f452bf15751ec337287f34ef0c"
+
+[[files]]
+file = "config/yosbr/config/minihud.json"
+hash = "405f876a18ccff3a4aea7094e993ec13cd653485e0cd81b34698cd3c08771c06"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "b1e7cd3216a4f96ceb1588d497ce4895a8cf8aae83f9557a141fa5feaa65397e"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap_entities.json"
+hash = "94fe80121d1f3e70bfd4756d51bc2cde8964fc57d1f8e09fff3e09e88b291766"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "7bcaa909613c955d99e6982018a780622dfc91c6dd462791f5e67c17599d5a3f"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "a93be9ca4f4a6a89f230b0274f48e0798ce7df856d9ad4f6d2da58399371d9c0"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
