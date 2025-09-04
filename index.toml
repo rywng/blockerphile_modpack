@@ -6,7 +6,7 @@ hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
 file = "README.md"
-hash = "b527527c977821c65c86623c7afc0f58609ef4af4af2923ff76eb52ec1fdce7c"
+hash = "566c558fe73051c96fc3fa63160d9f01d3a12473ac0e16800d3a3f3d4719d799"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
@@ -27,6 +27,10 @@ hash = "405f876a18ccff3a4aea7094e993ec13cd653485e0cd81b34698cd3c08771c06"
 [[files]]
 file = "config/yosbr/config/phases-discord-rich-presence.json"
 hash = "c3ca2df8cbf8eed8a6cb658adefc7a5e8913e907a60f56df103c5d38860f8940"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "6876ccb61a3b8a99462c6e79e1bab5ad673a9cf1f7c22736560b32506ae42e27"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
