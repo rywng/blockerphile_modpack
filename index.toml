@@ -9,6 +9,10 @@ file = "README.md"
 hash = "b527527c977821c65c86623c7afc0f58609ef4af4af2923ff76eb52ec1fdce7c"
 
 [[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "46ba42781e9f75409aa295e3ee951b035261ef73d20c48f320d0992a43899999"
+
+[[files]]
 file = "config/yosbr/config/emi.css"
 hash = "0b3ef7f96a62d92249d531a6b0fe7e7733f3bc8037d2de6d14a81072146ebd62"
 
