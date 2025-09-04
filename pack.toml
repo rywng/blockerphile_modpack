@@ -1,6 +1,6 @@
 name = "Blockerphile"
 author = "Ryan Wong"
-version = "0.1.0-rc3"
+version = "0.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
