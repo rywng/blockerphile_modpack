@@ -2,6 +2,22 @@
 
 minecraft modpack for vanilla MP servers. Includes way too much QoL mods.
 
+## Install
+
+This modpack is available on the following paltforms:
+
+- Modrinth: <https://modrinth.com/modpack/blockerphile>
+
+## Building from source
+
+This is developed with `packwiz`, building and updating can be fully automated.
+
+1. Download [packwiz](https://packwiz.infra.link/)
+1. Copy it to `$PATH`
+1. Clone this repository.
+1. In the root of this repo, run `packwiz mr export`, a `.mrpack` file should appear
+1. Open a minecraft launcher (I use prism launcher), and import the `.mrpack` file.
+
 ## Why?
 
 Each time a server admin updates their mc version, I have to start from scratch and re-download my minecraft mods again.
