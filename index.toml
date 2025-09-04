@@ -21,8 +21,16 @@ file = "config/yosbr/config/minihud.json"
 hash = "405f876a18ccff3a4aea7094e993ec13cd653485e0cd81b34698cd3c08771c06"
 
 [[files]]
+file = "config/yosbr/config/phases-discord-rich-presence.json"
+hash = "c3ca2df8cbf8eed8a6cb658adefc7a5e8913e907a60f56df103c5d38860f8940"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "b1e7cd3216a4f96ceb1588d497ce4895a8cf8aae83f9557a141fa5feaa65397e"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "9d60535d251c69ac378a2e9c1ba701542f5ed6bcf010e8976e6f468b0cf6fd5a"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap_entities.json"
@@ -34,7 +42,7 @@ hash = "7bcaa909613c955d99e6982018a780622dfc91c6dd462791f5e67c17599d5a3f"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a93be9ca4f4a6a89f230b0274f48e0798ce7df856d9ad4f6d2da58399371d9c0"
+hash = "9a7f7e216b61f8cd16cb055b8459c8e8f6e39218888c1f1700400bea48dea81e"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
