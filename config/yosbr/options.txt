@@ -1,7 +1,7 @@
 version:3955
 ao:true
 biomeBlendRadius:2
-enableVsync:false
+enableVsync:true
 entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
@@ -21,9 +21,9 @@ mipmapLevels:2
 narrator:0
 particles:0
 reducedDebugInfo:false
-renderClouds:"true"
-renderDistance:12
-simulationDistance:12
+renderClouds:"false"
+renderDistance:8
+simulationDistance:5
 screenEffectScale:0.2035541373239438
 soundDevice:""
 autoJump:false
@@ -132,12 +132,12 @@ key_key.freecam.toggle:key.keyboard.f4
 key_key.freecam.playerControl:key.keyboard.unknown
 key_key.freecam.tripodReset:key.keyboard.unknown
 key_key.freecam.configGui:key.keyboard.unknown
-key_key.gammautils.gammaToggle:key.keyboard.unknown
+key_key.gammautils.gammaToggle:key.keyboard.g
 key_key.gammautils.increaseGamma:key.keyboard.unknown
 key_key.gammautils.decreaseGamma:key.keyboard.unknown
 key_key.gammautils.maxGamma:key.keyboard.unknown
 key_key.gammautils.minGamma:key.keyboard.unknown
-key_key.gammautils.nightVisionToggle:key.keyboard.g
+key_key.gammautils.nightVisionToggle:key.keyboard.unknown
 key_key.gammautils.increaseNightVision:key.keyboard.unknown
 key_key.gammautils.decreaseNightVision:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
@@ -145,6 +145,7 @@ key_Freelook:key.keyboard.unknown
 key_Toggle Freelook:key.keyboard.v
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.presencefootsteps.toggle:key.keyboard.unknown
+key_viewboboptions.add_item_bind:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.y
 key_gui.xaero_zoom_in:key.keyboard.unknown
 key_gui.xaero_zoom_out:key.keyboard.unknown
