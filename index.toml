@@ -264,6 +264,11 @@ hash = "c9ffa90c6e4445ac75b9f6d6bfcf93c054133d1cc71e7e42ec6ec789dce731d1"
 metafile = true
 
 [[files]]
+file = "mods/viewboboptions.pw.toml"
+hash = "6111f1ff0e369e94b875756f02570d4169aaa8fccaab02c0aac4caf099a2ffcc"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "8f391603f2b1aaf63717c180e82635b7cd2d57617c02edac60f9d25244731df1"
 metafile = true
