@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "6e046a0ced37b978d8bf74aa48653822489348c2e65d33e40b93be55763c983f"
+hash = "658f12b36a5591d6261f02c7465811c2d67d40e20fbe8128de4a957b24b7fdec"
 metafile = true
 
 [[files]]
@@ -105,12 +105,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "d41804aff0c09612645047b2e53bfd88a018deaa7e4ad17d6656dd67e0af2a83"
+hash = "1b8cfd23e5f1f406957d5f337f8c514d5095c16adbd3d0830d29bd001aac845d"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b3811242f9230b57ec349147921309a05e17b1d9866cb5197926495d8f8e9400"
+hash = "da9fbdce468fbfa6bd5a7ceb15465780e3e8fda9535d16f40a81343621e627a7"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "e2ff96a331addb08e5e7b8d9a7bf46faacab79ed507a672878fef1fd7cb59f59"
+hash = "b4490e3459ef892bbb69d72d877100a2333e6df147cc4ceac4289529706011c9"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "a0229ecd63d478b8d019318a58317855c7e862cce95e78a60e21c01317cc329e"
+hash = "ceb180c764fa9c7c12c7e750cc7b726171277cb2b68e47370888c4ff4679a4ed"
 metafile = true
 
 [[files]]
