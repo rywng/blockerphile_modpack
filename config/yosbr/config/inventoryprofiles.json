@@ -1,0 +1,33 @@
+{
+    "ModSettings": {
+        "first_run": false
+    },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
+    },
+    "AutoRefillSettings": {
+        "tool_damage_threshold": 8
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "sort_inventory_in_columns": {
+            "main": {
+                "keys": "BUTTON_3"
+            }
+        },
+        "move_all_items": {
+            "main": {
+                "keys": "SPACE"
+            }
+        },
+        "throw_all_items": {
+            "main": {
+                "keys": ""
+            }
+        }
+    }
+}

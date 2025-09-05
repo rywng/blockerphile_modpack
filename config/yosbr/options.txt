@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"false"
-renderDistance:8
+renderDistance:12
 simulationDistance:5
 screenEffectScale:0.2035541373239438
 soundDevice:""
@@ -34,7 +34,7 @@ chatLinks:true
 chatLinksPrompt:true
 discrete_mouse_scroll:false
 invertYMouse:false
-realmsNotifications:true
+realmsNotifications:false
 showSubtitles:true
 directionalAudio:false
 touchscreen:false
@@ -58,7 +58,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.40412081866197197
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -97,7 +97,7 @@ key_key.right:key.keyboard.d
 key_key.jump:key.keyboard.space
 key_key.sneak:key.keyboard.left.shift
 key_key.sprint:key.keyboard.left.control
-key_key.drop:key.keyboard.q
+key_key.drop:key.keyboard.grave.accent
 key_key.inventory:key.keyboard.e
 key_key.chat:key.keyboard.t
 key_key.playerlist:key.keyboard.tab
@@ -126,7 +126,7 @@ key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.commandkeys.main.edit:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.fabricskyboxes.toggle:key.keyboard.h
+key_key.fabricskyboxes.toggle:key.keyboard.k
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
 key_key.freecam.toggle:key.keyboard.f4
 key_key.freecam.playerControl:key.keyboard.unknown
